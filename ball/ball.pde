@@ -2,7 +2,7 @@
 Atom [] atomCollection = new Atom [20];
 
 void setup() {
-  size(300, 300);
+  size(300, 300); 
   
 // La inicializo
   for( int i=0; i<20; i++){
